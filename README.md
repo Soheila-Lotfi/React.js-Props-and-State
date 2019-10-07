@@ -1,6 +1,6 @@
 # Increment Counter
 
-In this app I added a "Increment" button and click handler to the Click Counter application. When user clicks on the button, the count increments by 1.
+In this app I added a "Increment" button and click handler to the Click Counter application. When user clicks on the button, the count increments by 1. I used props and state in React to make this app.
 
 ## Instructions
 
@@ -21,3 +21,6 @@ Render `cardBody` inside of the `Counter` component and pass the `count` state a
 click handlers to the new component as props. 
 
 * Start the app in dev mode by running `npm start`.
+
+![image](https://user-images.githubusercontent.com/49765334/66355907-f0dc8380-e936-11e9-9bac-ae8017d4f43c.png)
+
