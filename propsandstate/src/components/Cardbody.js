@@ -4,7 +4,7 @@ function Cardbody(props) {
 
     return (
         <>
-            <button onClick={props.handleincrement}>
+            <button className="btn btn-info" onClick={props.handleincrement}>
                 Increment
 </button>
         </>
